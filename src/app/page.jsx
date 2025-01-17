@@ -34,7 +34,7 @@ const Home = () => {
                 className="uppercase flex items-center gap-2"
               >
                 <a
-                  href="/assets/resume/Seif Zakaria - Resume.pdf"
+                  href="/files/Seif Zakaria - Resume.pdf"
                   download="Seif Zakaria - Fullstack Software Engineer.pdf"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"
